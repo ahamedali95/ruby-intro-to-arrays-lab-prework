@@ -12,9 +12,11 @@ def array_with_two_elements()
     break if i == 2
   end
 
-  return arr
+  arr
 end
 
 def first_element(array)
   array[0]
 end
+
+
